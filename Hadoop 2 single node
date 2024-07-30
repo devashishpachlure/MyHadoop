@@ -141,3 +141,4 @@ Edit the bashrc file
 nano ~/.bashrc
 export HADOOP_HOME_WARN_SUPPRESS=1
 export HADOOP_ROOT_LOGGER="WARN,DRFA"
+webui 50070
